@@ -21,6 +21,10 @@ CSS Byebye is built with [postcss](https://github.com/postcss/postcss).
 
 A grunt task for CSS Byebye exists: [grunt-css-byebye](https://github.com/AoDev/grunt-css-byebye).
 
+Installation
+------------
+`npm install css-byebye --save-dev`
+See [css-byebye](https://www.npmjs.com/package/css-byebye)
 
 Usage
 ------
